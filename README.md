@@ -21,7 +21,6 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="50" height="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" alt="Unity" width="50" height="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="50" height="50"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/9/92/Assembly_language_logo.png" alt="Assembly" width="50" height="50"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/e/e6/QGIS_logo_new.svg" alt="QGIS" width="50" height="50"/>
 </p>
 
