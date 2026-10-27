@@ -1,7 +1,7 @@
 <h1 align="center">Merhaba 👋 Ben Hanım Baştürk</h1>
 
 <p align="center">
-🎓 Bilgisayar Mühendisliği öğrencisiyim.<br>
+🎓 Bilgisayar mühendisiyim.<br>
 🌟 Web geliştirme ve veri bilimi ile ilgileniyorum.<br>
 📍 Malatya, Türkiye
 </p>
